@@ -6,6 +6,7 @@
 
 - 📝 I Regularly Write Articles on <a href="https://www.mustafasitlab.com/" target="_blank"><b>My Blog.</b></a>
 
+- 🚀  [Online CV](https://flowcv.com/resume/640rplrs33)
 
 ## Technologies:
 <div align="left">
