@@ -1,9 +1,4 @@
-Technolog
 - 🚀  My personal page [https://cengiz.rocks](https://cengiz.rocks)
-
-RSS: https://www.mustafasitlab.com/feeds/posts/default?alt=rss
-
-Kod:
 
 <h2 align="center">Hello there! 🚀 I'm Mustafa.</h2>
 
