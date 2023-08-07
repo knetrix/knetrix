@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! 🚀 I'm Mustafa.</h2>
 
-- 👾  I’m Currently Working on **Password Manager App** and **Urban Sounds Classification Project.**
+- 👾  I’m Currently Working on **Password Manager App** Project.
 
 - 🌱 I’m Currently Learning **CCNP** and **Docker.**
 
