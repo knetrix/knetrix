@@ -1,5 +1,3 @@
-- 🚀  My personal page [https://cengiz.rocks](https://cengiz.rocks)
-
 <h2 align="center">Hello there! 🚀 I'm Mustafa.</h2>
 
 - 👾  I’m Currently Working on **Password Manager App** and **Urban Sounds Classification Project.**
@@ -9,13 +7,6 @@
 - 📝 I Regularly Write Articles on <a href="https://www.mustafasitlab.com/" target="_blank"><b>My Blog.</b></a>
 
 - 📫  How to reach me **mustafa.ersoy845@gmail.com**
-
-<hr>
-
-# Blog posts
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 ## Technologies:
 <div align="left">
@@ -31,8 +22,6 @@
 <a href="https://www.influxdata.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/influxdb.svg" alt="InfluxDB" height="40" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" /></a>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" height="40"/> </a>
-
-
 </div>
 
 ## Tools:
@@ -46,7 +35,6 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="30"/> </a>
 <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" alt="gitkraken" height="30"/> </a>
 </div>
-
 
 <h3 align="left">My Dev Statistics: </h3>
 <div align="center">
