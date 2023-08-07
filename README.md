@@ -6,8 +6,6 @@
 
 - 📝 I Regularly Write Articles on <a href="https://www.mustafasitlab.com/" target="_blank"><b>My Blog.</b></a>
 
-- 📫  How to reach me **mustafa.ersoy845@gmail.com**
-
 
 ## Technologies:
 <div align="left">
@@ -36,6 +34,11 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="30"/> </a>
 <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/gitkraken.svg" alt="gitkraken" height="30"/> </a>
 </div>
+
+<h2 align="left">Connect with me:</h2>
+<a href="https://t.me/mustafasitlab" target="blank"><img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/></a>
+
+**mustafa.ersoy845@gmail.com**
 
 <h3 align="left">My Dev Statistics: </h3>
 <div align="center">
