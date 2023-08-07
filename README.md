@@ -8,7 +8,7 @@
 
 - 📫  How to reach me **mustafa.ersoy845@gmail.com**
 
-<> sss
+[comment]: <> (This is a comment, it will not be included)
 
 ## Technologies:
 <div align="left">
