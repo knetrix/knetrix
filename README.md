@@ -6,8 +6,6 @@
 
 - 📝 I Regularly Write Articles on <a href="https://www.mustafasitlab.com/" target="_blank"><b>My Blog.</b></a>
 
-- 🚀  [Online CV](https://flowcv.com/resume/640rplrs33)
-
 ## Technologies:
 <div align="left">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
@@ -54,3 +52,6 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mustafasitlab&&style=flat-square" align="center" />
 </div>
+
+- [Online CV](https://flowcv.com/resume/640rplrs33)
+- [Credly](https://www.credly.com/users/mustafa-ersoy.17da93c5/badges)
