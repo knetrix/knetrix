@@ -1,6 +1,6 @@
 <h2 align="center">Hello there! 🚀 I'm Mustafa.</h2>
 
-- 👾  I’m Currently Working on **Password Manager App** Project.
+[comment]: <> (👾  I’m Currently Working on **Password Manager App** Project.)
 
 - 🌱 I’m Currently Learning **CCNP** and **Docker.**
 
@@ -8,7 +8,6 @@
 
 - 📫  How to reach me **mustafa.ersoy845@gmail.com**
 
-[comment]: <> (This is a comment, it will not be included)
 
 ## Technologies:
 <div align="left">
