@@ -39,6 +39,9 @@
 
 **mustafa.ersoy845@gmail.com**
 
+- [Online CV](https://flowcv.com/resume/640rplrs33)
+- [Credly](https://www.credly.com/users/mustafa-ersoy.17da93c5/badges)
+
 <h3 align="left">My Dev Statistics: </h3>
 <div align="center">
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafasitlab&&theme=highcontrast&show_icons=true&hide_border=true" />
@@ -52,6 +55,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=mustafasitlab&&style=flat-square" align="center" />
 </div>
-
-- [Online CV](https://flowcv.com/resume/640rplrs33)
-- [Credly](https://www.credly.com/users/mustafa-ersoy.17da93c5/badges)
