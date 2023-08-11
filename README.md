@@ -1,4 +1,4 @@
-<h2 align="center">Hello there! 🚀 I'm Mustafa.</h2>
+<h2 align="center">Hello 🚀 I'm Mustafa.</h2>
 
 [comment]: <> (👾  I’m Currently Working on **Password Manager App** Project.)
 
