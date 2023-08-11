@@ -39,8 +39,6 @@
 
 **mustafa.ersoy845@gmail.com**
 
-[Online CV](https://flowcv.com/resume/640rplrs33)
-
 [Credly](https://www.credly.com/users/mustafa-ersoy.17da93c5/badges)
 
 <h3 align="left">My Dev Statistics: </h3>
