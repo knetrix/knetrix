@@ -35,10 +35,13 @@
 </div>
 
 <h2 align="left">Connect with me:</h2>
-<a href="https://t.me/mustafasitlab" target="blank"><img align="left" alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/></img></a>
+<a href="https://t.me/mustafasitlab"><img alt="Telegram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png"/></a>
+
+**mustafa.ersoy845@gmail.com**
+
+---
 
 [Credly](https://www.credly.com/users/mustafa-ersoy.17da93c5/badges)
-
 
 <h3 align="left">My Dev Statistics: </h3>
 <div align="center">
