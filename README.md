@@ -4,8 +4,6 @@
 
 - 🌱 I’m Currently Learning **CCNP** and **Docker.**
 
-- 📝 I Regularly Write Articles on <a href="https://www.mustafasitlab.com/" target="_blank"><b>My Blog.</b></a>
-
 ## Technologies:
 <div align="left">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
