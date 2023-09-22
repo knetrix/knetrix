@@ -43,14 +43,14 @@
 
 <h3 align="left">My Dev Statistics: </h3>
 <div align="center">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=mustafasitlab&&theme=highcontrast&show_icons=true&hide_border=true" />
-<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafasitlab&theme=highcontrast" alt="mustafasitlab" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=knetrix&&theme=highcontrast&show_icons=true&hide_border=true" />
+<img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=knetrix&theme=highcontrast" alt="knetrix" />
 </div>
 
 <div align="center">
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafasitlab&show_icons=true&locale=en&layout=compact" alt="ntwrkx" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs?username=knetrix&show_icons=true&locale=en&layout=compact" alt="knetrix" />
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=mustafasitlab&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=knetrix&&style=flat-square" align="center" />
 </div>
