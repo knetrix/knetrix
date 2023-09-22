@@ -1,9 +1,3 @@
-<h2 align="center">Hello 🚀 I'm Mustafa.</h2>
-
-[comment]: <> (👾  I’m Currently Working on **Password Manager App** Project.)
-
-- 🌱 I’m Currently Learning **CCNP** and **Docker.**
-
 ## Technologies:
 <div align="left">
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" /></a>
