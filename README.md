@@ -1,13 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=knetrix">
 
-<h1 align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;I'm+Mustafa;&center=true&size=30">
   </a>
+  </div>
+
 <div align="center">
-<img align='center' src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=96>
+ <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=96>
 </div>
-</h1>
 
 <p align="center"><b>Computer & IoT & Network Engineer</b></p>
 
