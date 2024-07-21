@@ -30,3 +30,6 @@
 <h3 align="center"> :zap: Recent Activity</h3>
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#11](https://github.com/IntelligenzaArtificiale/Free-personal-AI-Assistant-with-plugin/issues/11) in [IntelligenzaArtificiale/Free-personal-AI-Assistant-with-plugin](https://github.com/IntelligenzaArtificiale/Free-personal-AI-Assistant-with-plugin)
+2. ❗ Opened issue [#426](https://github.com/KosmosisDire/obsidian-webpage-export/issues/426) in [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export)
+<!--END_SECTION:activity-->
