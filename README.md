@@ -18,11 +18,11 @@
 
 <h3 align="center">My GitHub Stats </h3>
 <div align="center">
-<a href="https://github.com/Saizzou">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Saizzou&count_private=true&show_icons=true&theme=chartreuse-dark" />
+<a href="https://github.com/knetrix">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=knetrix&count_private=true&show_icons=true&theme=chartreuse-dark" />
   </a>
-  <a href="https://github.com/Saizzou">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saizzou&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
+  <a href="https://github.com/knetrix">
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=knetrix&layout=compact&theme=chartreuse-dark&langs_count=8" /></a>
 </div>
 
 ---
