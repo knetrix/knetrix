@@ -10,11 +10,6 @@
  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width=96>
 </div>
 
-<p align="center"><b>Computer & IoT & Network Engineer</b></p>
-
-- 🌐 Visit My [Website](https://knetrix.gitbook.io/) For More Information and To Get In Touch.
-- 💬 Ask Me Anything About From <a href="https://github.com/knetrix/knetrix/issues" title="Issues">Here.</a>
-
 ---
 
 <h3 align="center">My GitHub Stats </h3>
