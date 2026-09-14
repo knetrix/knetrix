@@ -1,8 +1,6 @@
-# 👋 Hi, I'm Mustafa Ersoy
+## Konnichiwa <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height=29 align=left>
 
-**IoT - Network Engineer**
-
-## Summary
+## About
 
 - 🤖💻 Project development experience in the IoT and Network field, integrating AI-Powered Software Tools into the daily development process.
 - 📡🔧 Designed end-to-end solutions for sensor systems based on ESP32/ESP8266, using the MQTT protocol and NodeRED/InfluxDB3/Grafana data pipelines.
