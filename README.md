@@ -47,5 +47,4 @@ Developed an ESP8266-based IoT system that encrypts BME280 environmental telemet
 ## Contact
 
 - [Website](https://www.knetrix.com)
-- [LinkedIn](https://www.linkedin.com/in/mustafa-ersoy-knetrix/)
 - [Email](mailto:mustafa.erso845@gmail.com)
