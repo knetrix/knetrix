@@ -2,11 +2,19 @@
 
 ## About
 
-- 🤖💻 Project development experience in the IoT and Network field, integrating AI-Powered Software Tools into the daily development process.
-- 📡🔧 Designed end-to-end solutions for sensor systems based on ESP32/ESP8266 - Raspberry - Arduino, using the MQTT protocol and NodeRED/InfluxDB3/Grafana data pipelines.
-- 🐍⚙️ Proficient in Python and C++ Programming, Git Version Control, Virtualization with Docker and Proxmox, and CCNA-Certified network infrastructure knowledge.
-- 🖥️🔄 Experienced in deploying Self-Hosted infrastructure and automating workflows through tools such as n8n and Langflow.
-- 🚀🔍 Actively follow open-source projects on GitHub to test new technologies and prototype my startup ideas.
+🤖💻 Project development experience in the IoT and Network field, integrating AI-Powered Software Tools into the daily development process.
+<br>
+
+📡🔧 Designed end-to-end solutions for sensor systems based on ESP32/ESP8266 - Raspberry - Arduino, using the MQTT protocol and NodeRED/InfluxDB3/Grafana data pipelines.
+<br>
+
+🐍⚙️ Proficient in Python and C++ Programming, Git Version Control, Virtualization with Docker and Proxmox, and CCNA-Certified network infrastructure knowledge.
+<br>
+
+🖥️🔄 Experienced in deploying Self-Hosted infrastructure and automating workflows through tools such as n8n and Langflow.
+<br>
+
+🚀🔍 Actively follow open-source projects on GitHub to test new technologies and prototype my startup ideas.
 
 ## Skills
 
