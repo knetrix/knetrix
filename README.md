@@ -18,11 +18,13 @@
       width="49%"
     />
   </a>
+  <a href="https://github.com/knetrix">
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=knetrix&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
     alt="Technology Footprint"
     width="49%"
   />
+    /a>
 </p>
 
 # Hi, I'm Mustafa! 👋
