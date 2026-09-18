@@ -24,7 +24,7 @@
     alt="Technology Footprint"
     width="49%"
   />
-    /a>
+  </a>
 </p>
 
 # Hi, I'm Mustafa! 👋
