@@ -47,7 +47,7 @@ Developed an ESP8266-based IoT system that encrypts BME280 environmental telemet
 - [Website](https://knetrix.github.io/)
 - [Email](mailto:mustafa.erso845@gmail.com)
 
-## My GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img align="top" width="55%" src="https://github-stats-extended.vercel.app/api/?username=knetrix&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&hide_title=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&card_width=495" alt="Mustafa'nın GitHub İstatistikleri" />
