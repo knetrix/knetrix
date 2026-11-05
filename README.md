@@ -1,5 +1,3 @@
-# Hi, I'm Mustafa! 👋
-
 ## About
 
 🤖💻 Project development experience in the IoT and Network field, integrating AI-Powered Software Tools into the daily development process.
@@ -49,19 +47,9 @@ Developed an ESP8266-based IoT system that encrypts BME280 environmental telemet
 - [Website](https://knetrix.github.io/)
 - [Email](mailto:mustafa.erso845@gmail.com)
 
+## My GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/knetrix">
-    <img
-      src="https://streak-stats.demolab.com/?user=knetrix&theme=dark&background=161B22&border=8B949E&ring=00CFFF&fire=00CFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00CFFF&sideLabels=C9D1D9&dates=8B949E&mode=daily&locale=en&disable_animations=true&card_width=495"
-      alt="GitHub Streak"
-      width="49%"
-    />
-  </a>
-  <a href="https://github.com/knetrix">
-  <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=knetrix&layout=compact&card_width=420&theme=dark&hide_border=false&border_color=8B949E&title_color=FFFFFF&text_color=C9D1D9&bg_color=161B22&custom_title=Technology%20Footprint"
-    alt="Technology Footprint"
-    width="49%"
-  />
-  </a>
+  <img align="top" width="55%" src="https://github-stats-extended.vercel.app/api/?username=knetrix&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Mustafa%27s%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&card_width=495" alt="Mustafa'nın GitHub İstatistikleri" />
+  <img align="top" width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=knetrix&layout=compact&langs_count=6&card_width=390&theme=calm&disable_animations=true" alt="En Çok Kullanılan Diller" />
 </p>
