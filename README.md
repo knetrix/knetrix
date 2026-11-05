@@ -50,6 +50,6 @@ Developed an ESP8266-based IoT system that encrypts BME280 environmental telemet
 ## My GitHub Stats
 
 <p align="center">
-  <img align="top" width="55%" src="https://github-stats-extended.vercel.app/api/?username=knetrix&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&custom_title=Mustafa%27s%20Stats&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&card_width=495" alt="Mustafa'nın GitHub İstatistikleri" />
+  <img align="top" width="55%" src="https://github-stats-extended.vercel.app/api/?username=knetrix&show_icons=true&theme=calm&rank_icon=github&include_all_commits=true&hide_title=true&disable_animations=true&number_format=long&show=prs_merged_percentage,prs_reviewed&card_width=495" alt="Mustafa'nın GitHub İstatistikleri" />
   <img align="top" width="43%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=knetrix&layout=compact&langs_count=6&card_width=390&theme=calm&disable_animations=true" alt="En Çok Kullanılan Diller" />
 </p>
